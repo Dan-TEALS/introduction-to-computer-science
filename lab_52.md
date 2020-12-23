@@ -4,7 +4,7 @@ In this lab, you will use cloning to create many identical sprites without havin
 
 ## Part 1 - Follow the bouncing sprites
 
-1. Create a SNAP program that contains a single sprite, choose from available costumes (i.e. basketballs, hearts, stars, balloons, Alonzo, doves). When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction. If the sprite hits a wall, it should bounce off and keep moving.
+1. Create a Snap! program that contains a single sprite, choose from available costumes (i.e. basketballs, hearts, stars, balloons, Alonzo, doves). When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction. If the sprite hits a wall, it should bounce off and keep moving.
 
 2. Modify the program to be controlled by the stage rather than by the sprite itself.  When the spacebar is pressed, the stage should broadcast a message that triggers the sprite's movement.  Pressing the spacebar again should restart the sprite's movement, including a new speed and new direction.
 
@@ -12,7 +12,15 @@ In this lab, you will use cloning to create many identical sprites without havin
 
 ## Part 2 - Clones
 
-1. Modify your program so that, instead of a single sprite restarting each time the spacebar is pressed, a new clone of that sprite is created.  You'll want to use the ![Create a CLone of](createACloneOf.png) and ![When I starts as a clone](whenIStartAsAClone.png) blocks in place of ![Broadcast block](broadcast.png) and ![When I Receive block](whenIReceive.png).
+1. Modify your program so that, instead of a single sprite restarting each time the spacebar is pressed, a new clone of that sprite is created.  You'll want to use the `Create a Clone of` and `When I starts as a clone` blocks in place of `Broadcast block` and `When I Receive` block.
+
+    ![Create a Clone of](createACloneOf.png)
+
+    ![When I starts as a clone](whenIStartAsAClone.png)
+
+    ![Broadcast block](broadcast.png)
+
+    ![When I Receive block](whenIReceive.png).
 
 2. What happens to the original ("master") sprite each time the spacebar is pressed?  Does that seem useful?  What role should the original sprite play now that we're cloning?
 

@@ -4,17 +4,21 @@
 
 Students will be able to...
 
-* Identify the class they are taking
-* List the high-level goals of the course
-* Describe classroom procedures, rules, and norms
+* Identify the class they are taking.
+* List the high-level goals of the course.
+* Describe classroom procedures, rules, and norms.
 
 ## Materials/Preparation
 
+* [0.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.1.pptx)
 * Class list
-* [Optional] Seating chart
-* Bell schedule and classroom location
-* [Example Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
+* [Optional] Seating chart (Give a copy to your volunteers to help them learn names)
+* Bell schedule and classroom location.
+* [Template Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
+  * _Remote Guidance_: This can be emailed out to parents and students. I picture of the signatures could be submitted digitally or signed digitally as a pdf using the `Fill and sign` tool in Adobe Reader.
 * [Unit 0 Tips](unit_0_tips.md)
+* Video Resource - [https://www.youtube.com/watch?v=cKhVupvyhKk](https://www.youtube.com/watch?v=cKhVupvyhKk)
+  * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 
@@ -31,13 +35,13 @@ Students will be able to...
 * Utilize the plan developed with your teaching team for the first day of school.
 * The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 * Suggested topics to cover:
-  * Names and backgrounds of TEALS team members
-  * Brief background on TEALS program (i.e. "Why are there so many adults here?")
+  * Names and backgrounds of TEALS team members.
+  * Brief background on TEALS program (i.e. "Why are there so many adults here?").
   * Go over the Classroom Syllabus with students.
   * Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
-  * Academic Integrity/Cheating policy
-  * Introductions/Icebreakers with students
-  * High-level learning objectives for course
+  * Academic Integrity/Cheating policy.
+  * Introductions/Icebreakers with students.
+  * High-level learning objectives for course.
 
 ## BJC Lecture Suggestions
 

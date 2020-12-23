@@ -11,15 +11,17 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now: Draw the Coordinate System](do_now_05.md)
-* [Lab 0.5 handout](lab_05.md) (Getting to know Coordinates) ([Docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.docx)) ([PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.pdf))
-* Famaliarize yourself with this [Coordinate System](https://www.desmos.com/calculator/ui4klsjued) tool.
+* [Do Now: Draw the Coordinate System](do_now_05.md).
+* [0.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.5.pptx)
+* [Lab 0.5 handout (Getting to know Coordinates)](lab_05.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_05.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_05.pdf)).
+* Familiarize yourself with this [Coordinate System](https://www.desmos.com/calculator/ui4klsjued) tool.
   * Students will be entering coordinates on the left side of the screen
-  * The points will plot on the graph
-* Familarize yourself with this [Snap Template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro)
-* Familiarize yourself with the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest)
-* [Unit 0 Tips](unit_0_tips.md)
+  * The points will plot on the graph.
+* Familiarize yourself with this [Snap!Template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro).
+* Familiarize yourself with the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
+* [Unit 0 Tips](unit_0_tips.md).
 * Here is a place to print [Graph Paper](https://free-printable-paper.com/graph-paper/) in case it is necessary to print graph paper for the class.
+* Video Resource - [https://youtu.be/5ctsUsvIp8w](https://youtu.be/5ctsUsvIp8w)
 
 ## Pacing Guide
 
@@ -33,13 +35,13 @@ Students will be able to...
 
 ## Instructor's Notes
 
-### 1. Introduce Activity
+### Introduce Activity
 
 * Explain to students the Snap! coordinate system using the grid they have drawn from the Dow Now.
 * Define the Origin and that its center is (0,0).
 * Define the Grid Limits of positive and negative 240 on the x-axis and positive and negative 180 on the y-axis.
 
-### 2. Classroom Activity
+### Classroom Activity
 
 (_This classroom activity is optional - use it if you think your class could use the additional scaffolding._)
 
@@ -55,7 +57,7 @@ Use [this coordinate tool](https://www.desmos.com/calculator/ui4klsjued) to have
   * (100, 0)
   * (50, 100)
 
-Ask students if they connect the dots, what shape would the points make? (Answers may vary: Kite, Diamond, Quadralateral, Polygon, etc)
+Ask students if they connect the dots, what shape would the points make? (Answers may vary: Kite, Diamond, Quadrilateral, Polygon, etc).
 
 ### 3. Integrate
 
@@ -87,4 +89,4 @@ The origin (0,0) is the exact center of the grid.
 
 ## Forum discussion
 
-[Lesson 0.5 Snap Coordinate System](http://forums.tealsk12.org/c/unit-0-beginnings/Snap-Coordinate-System) (TEALS Discourse account required).</a>
+[Lesson 0.5 Snap! Coordinate System](http://forums.tealsk12.org/c/unit-0-beginnings/Snap-Coordinate-System) (TEALS Discourse account required).</a>
